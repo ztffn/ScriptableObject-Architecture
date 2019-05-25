@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fccc1e326d1544dba839f5a3b8b8f7c, type: 3}
+  m_Name: RacingWheel
+  m_EditorClassIdentifier: 
+  itemName: Super Race Wheel
+  physicalRepresentation: {fileID: 3484037501471606239, guid: aebce482bdbbf4473884bc9b4c605790,
+    type: 3}
+  stackLimit: 0
+  wheelType: 0
+  weight: 2.76
+  gripFactor: 0.8
